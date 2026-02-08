@@ -16,3 +16,4 @@ aws_access_key_id = "AKIA1234567890ABCD"
 # 精准匹配 Google API Key 规则：AIzaSy + 33位字符
 google_api_key = "AIzaSyB9N9HxXj67890abcdefghijklmnopqrstuvwx"
 
+token="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"
