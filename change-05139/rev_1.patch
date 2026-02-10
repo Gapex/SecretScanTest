@@ -1,0 +1,3 @@
++++ b/secret.py
++password = "123456"  # 敏感信息，用于触发 Secret Alert
++token="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"
